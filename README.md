@@ -1,2 +1,7 @@
-# Python-Coding-Test-Practice-Notes
-코딩테스트 연습을 위한 파이썬 소스코드 저장소
+## Python-Coding-Test-Practice-Notes
+This is the Python source code repository for coding test exercises.
+
+<br/>
+
+## Contents
+### Programmers Lv.1
