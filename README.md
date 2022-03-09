@@ -16,3 +16,4 @@
 - [제일 작은 수 제거하기](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/blob/main/Programmers%20Lv.1/제일%20작은%20수%20제거하기.py)
 - [정수 제곱근 판별](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/blob/main/Programmers%20Lv.1/정수%20제곱근%20판별.py)
 - [정수 내림차순으로 배치하기](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/blob/main/Programmers%20Lv.1/정수%20내림차순으로%20배치하기.py)
+- [자연수 뒤집어 배열로 만들기](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/blob/main/Programmers%20Lv.1/자연수%20뒤집어%20배열로%20만들기.py)
