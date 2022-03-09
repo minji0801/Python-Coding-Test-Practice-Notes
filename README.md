@@ -12,3 +12,4 @@
 - [평균 구하기](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/blob/main/Programmers%20Lv.1/평균%20구하기.py)
 - [콜라츠 추축](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/blob/main/Programmers%20Lv.1/콜라츠%20추측.py)
 - [최대공약수와 최소공배수](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/blob/main/Programmers%20Lv.1/최대공약수와%20최소공배수.py)
+- [짝수와 홀수](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/blob/main/Programmers%20Lv.1/짝수와%20홀수.py)
