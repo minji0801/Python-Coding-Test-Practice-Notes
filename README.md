@@ -14,3 +14,4 @@
 - [최대공약수와 최소공배수](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/blob/main/Programmers%20Lv.1/최대공약수와%20최소공배수.py)
 - [짝수와 홀수](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/blob/main/Programmers%20Lv.1/짝수와%20홀수.py)
 - [제일 작은 수 제거하기](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/blob/main/Programmers%20Lv.1/제일%20작은%20수%20제거하기.py)
+- [정수 제곱근 판별](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/blob/main/Programmers%20Lv.1/정수%20제곱근%20판별.py)
