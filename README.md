@@ -9,3 +9,4 @@
 - [행렬의 덧셈](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/blob/main/Programmers%20Lv.1/행렬의%20덧셈.py)
 - [핸드폰 번호 가리기](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/blob/main/Programmers%20Lv.1/핸드폰%20번호%20가리기.py)
 - [하샤드 수](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/blob/main/Programmers%20Lv.1/하샤드%20수.py)
+- [평균 구하기](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/blob/main/Programmers%20Lv.1/평균%20구하기.py)
