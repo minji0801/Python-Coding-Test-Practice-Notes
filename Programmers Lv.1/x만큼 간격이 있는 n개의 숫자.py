@@ -5,6 +5,7 @@ def solution(x, n):
     answer = [x + (x * i) for i in range(n)]
     return answer
 
+# 아래는 테스트로 출력해 보기 위한 코드입니다.
 print(solution(2, 5))    # [2, 4, 6, 8, 10]
 print(solution(4, 3))    # [4, 8, 12]
 print(solution(-4, 2))    # [-4, -8]
