@@ -18,3 +18,4 @@
 - [정수 내림차순으로 배치하기](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/blob/main/Programmers%20Lv.1/정수%20내림차순으로%20배치하기.py)
 - [자연수 뒤집어 배열로 만들기](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/blob/main/Programmers%20Lv.1/자연수%20뒤집어%20배열로%20만들기.py)
 - [자릿수 더하기](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/blob/main/Programmers%20Lv.1/자릿수%20더하기.py)
+- [이상한 문자 만들기](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/blob/main/Programmers%20Lv.1/이상한%20문자%20만들기.py)
