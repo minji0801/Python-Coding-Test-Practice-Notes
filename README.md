@@ -20,4 +20,5 @@
 - [위클리 챌린지](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/tree/main/Programmers/위클리%20챌린지)
 - [정렬](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/tree/main/Programmers/정렬)
 - [찾아라 프로그래밍 마에스터](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/tree/main/Programmers/찾아라%20프로그래밍%20마에스터)
+- [탐욕법(Greedy)](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/tree/main/Programmers/탐욕법(Greedy))
 - [해시](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/tree/main/Programmers/해시)
