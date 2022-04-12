@@ -24,3 +24,6 @@
 - [찾아라 프로그래밍 마에스터](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/tree/main/Programmers/찾아라%20프로그래밍%20마에스터)
 - [탐욕법(Greedy)](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/tree/main/Programmers/탐욕법(Greedy))
 - [해시](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/tree/main/Programmers/해시)
+
+### CodeUp
+- [관리자 추천 문제](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/tree/main/CodeUp/관리자%20추천%20문제)
