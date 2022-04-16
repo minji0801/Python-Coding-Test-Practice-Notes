@@ -27,3 +27,5 @@
 
 ### CodeUp
 - [관리자 추천 문제](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/tree/main/CodeUp/관리자%20추천%20문제)
+
+### 2022 카카오 채용연계형 인턴십 대비
