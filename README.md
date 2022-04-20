@@ -31,5 +31,5 @@
 ### 2022 카카오 채용연계형 인턴십 사전 연습
 - [2021 카카오 채용연계형 인턴십](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/tree/main/2022%20카카오%20채용연계형%20인턴십%20대비/2021%20카카오%20채용연계형%20인턴십)
 
-### 2022 Summer Coding - 여름방학 스타트업 인턴 프로그램 사전 연습
+### 2022 Summer Coding 사전 연습
 - [Summer/Winter Coding(~2018)](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/tree/main/2022%20Summer%20Coding%20사전%20연습/Summer,Winter%20Coding(~2018))
