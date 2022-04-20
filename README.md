@@ -8,6 +8,7 @@
 - [2019 KAKAO BLIND RECRUITMENT](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/tree/main/Programmers/2019%20KAKAO%20BLIND%20RECRUITMENT)
 - [2019 카카오 개발자 겨울 인턴십](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/tree/main/Programmers/2019%20카카오%20개발자%20겨울%20인턴십)
 - [2020 카카오 인턴십](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/tree/main/Programmers/2020%20카카오%20인턴십)
+- [2020 KAKAO BLIND RECRUITMENT](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/tree/main/Programmers/2020%20KAKAO%20BLIND%20RECRUITMENT)
 - [2021 Dev-Matching: 웹 백엔드 개발자(상반기)](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/tree/main/Programmers/2021%20Dev-Matching:%20웹%20백엔드%20개발자(상반기))
 - [2021 KAKAO BLIND RECRUITMENT](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/tree/main/Programmers/2021%20KAKAO%20BLIND%20RECRUITMENT)
 - [2021 카카오 채용연계형 인턴십](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/tree/main/Programmers/2021%20카카오%20채용연계형%20인턴십)
