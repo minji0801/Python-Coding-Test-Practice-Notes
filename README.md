@@ -30,6 +30,7 @@
 - [관리자 추천 문제](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/tree/main/CodeUp/관리자%20추천%20문제)
 
 ### 2022 카카오 채용연계형 인턴십 사전 연습
+- [2020 카카오 인턴십](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/tree/main/2022%20카카오%20채용연계형%20인턴십%20사전%20연습/2020%20카카오%20인턴십)
 - [2021 카카오 채용연계형 인턴십](https://github.com/minji0801/Python-Coding-Test-Practice-Notes/tree/main/2022%20카카오%20채용연계형%20인턴십%20사전%20연습/2021%20카카오%20채용연계형%20인턴십)
 
 ### 2022 Summer Coding 사전 연습
